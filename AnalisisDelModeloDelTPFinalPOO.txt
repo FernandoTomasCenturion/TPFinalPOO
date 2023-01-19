@@ -1,0 +1,6 @@
+Analisis de modelo: 
+
+-Clase concreta: Transporte.
+-Clases polimorficas: Camión y AutoElectrico 
+
+Relacion de transporte a remolque: 1 a 1.
